@@ -36,7 +36,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Alison
+ * @author Leandro
  */
 public class Controler implements ActionListener{
     

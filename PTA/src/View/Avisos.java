@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Alison
+ * @author Leandro
  */
 public class Avisos {
     

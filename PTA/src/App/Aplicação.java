@@ -12,7 +12,7 @@ import javax.swing.UIManager;
 
 /**
  *
- * @author Alison
+ * @author Leandro
  */
 public class Aplicação {
 

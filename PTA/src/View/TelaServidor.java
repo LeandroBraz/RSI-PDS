@@ -7,7 +7,7 @@ package View;
 
 /**
  *
- * @author Alison
+ * @author Leandro
  */
 public class TelaServidor extends javax.swing.JFrame {
 
